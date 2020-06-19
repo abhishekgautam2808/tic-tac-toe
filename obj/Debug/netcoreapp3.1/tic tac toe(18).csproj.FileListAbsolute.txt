@@ -1,0 +1,13 @@
+C:\Users\Abhishek\Desktop\tic tac toe(18)\bin\Debug\netcoreapp3.1\tic tac toe(18).exe
+C:\Users\Abhishek\Desktop\tic tac toe(18)\bin\Debug\netcoreapp3.1\tic tac toe(18).deps.json
+C:\Users\Abhishek\Desktop\tic tac toe(18)\bin\Debug\netcoreapp3.1\tic tac toe(18).runtimeconfig.json
+C:\Users\Abhishek\Desktop\tic tac toe(18)\bin\Debug\netcoreapp3.1\tic tac toe(18).runtimeconfig.dev.json
+C:\Users\Abhishek\Desktop\tic tac toe(18)\bin\Debug\netcoreapp3.1\tic tac toe(18).dll
+C:\Users\Abhishek\Desktop\tic tac toe(18)\bin\Debug\netcoreapp3.1\tic tac toe(18).pdb
+C:\Users\Abhishek\Desktop\tic tac toe(18)\obj\Debug\netcoreapp3.1\tic tac toe(18).csprojAssemblyReference.cache
+C:\Users\Abhishek\Desktop\tic tac toe(18)\obj\Debug\netcoreapp3.1\tic tac toe(18).csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\Desktop\tic tac toe(18)\obj\Debug\netcoreapp3.1\tic tac toe(18).AssemblyInfoInputs.cache
+C:\Users\Abhishek\Desktop\tic tac toe(18)\obj\Debug\netcoreapp3.1\tic tac toe(18).AssemblyInfo.cs
+C:\Users\Abhishek\Desktop\tic tac toe(18)\obj\Debug\netcoreapp3.1\tic tac toe(18).dll
+C:\Users\Abhishek\Desktop\tic tac toe(18)\obj\Debug\netcoreapp3.1\tic tac toe(18).pdb
+C:\Users\Abhishek\Desktop\tic tac toe(18)\obj\Debug\netcoreapp3.1\tic tac toe(18).genruntimeconfig.cache
